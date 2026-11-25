@@ -46,6 +46,8 @@ The best-performing ANN configuration reported 89.46% accuracy and 16.62% recall
 Key Learnings
 This project provided practical experience in data preprocessing, feature engineering, exploratory data analysis, handling imbalanced datasets, classification modelling, and model evaluation. It also demonstrated the importance of evaluating classification models using multiple performance metrics rather than accuracy alone.
 
-GOOGLE COLAB LINK : https://drive.google.com/file/d/1yKPHCZ83Ics8XTreXXkUw3EbQrZgT7TO/view?usp=drivesdk
+GOOGLE COLAB LINK :
+https://drive.google.com/file/d/1qbpB-QVC8jex77E65Y1FqHYfklcFQdXE/view?usp=drivesdk
 
-PRESENTATION LINK :https://docs.google.com/presentation/d/1EqfGNZyrrm61Px9Q6cG33J5sXb8IEY1I/edit?usp=drivesdk&ouid=104520695117016960736&rtpof=true&sd=true 
+PRESENTATION LINK : 
+https://docs.google.com/presentation/d/1OQMHnlkYR_k0zazUOqoTy2XYv2W56a6N/edit?usp=drivesdk&ouid=104520695117016960736&rtpof=true&sd=true
